@@ -1,4 +1,4 @@
-﻿using ConwayGameOfLife;
+﻿using Game.API;
 using FluentAssertions;
 using Game.Application.Contracts;
 using Game.Application.Contracts.Core;
