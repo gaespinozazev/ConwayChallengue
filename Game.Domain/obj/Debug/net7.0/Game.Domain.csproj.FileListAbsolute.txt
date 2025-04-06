@@ -1,0 +1,14 @@
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\bin\Debug\net7.0\Game.Domain.deps.json
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\bin\Debug\net7.0\Game.Domain.dll
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\bin\Debug\net7.0\Game.Domain.pdb
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.csproj.AssemblyReference.cache
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.Resources.Messages.resources
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.csproj.GenerateResource.cache
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.AssemblyInfoInputs.cache
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.AssemblyInfo.cs
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.dll
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\refint\Game.Domain.dll
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\Game.Domain.pdb
+C:\Users\Gustavo Adolfo\Documents\NS\ConwayGameOfLifeAPI-main\Game.Domain\obj\Debug\net7.0\ref\Game.Domain.dll
