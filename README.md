@@ -15,14 +15,21 @@ This project is an implementation of the Conway Game of Life API using C# & Net 
 1. **Open the Solution**:
    - Open the solution file (`.sln`) in Visual Studio 2022.
 
-2. **Set the Startup Project**:
+2. **Restore packages**:
+   - Open the console and type this command:
+   
+``` dotnet restore ```
+
+   - This will ensure to restore all the needed packages.
+  
+3. **Set the Startup Project**:
    - In the Solution Explorer, right-click on the `Game.API` project and select `Set as Startup Project`.
 
-3. **Run the Project**:
+4. **Run the Project**:
    - Press `F5` to run the project in debug mode, or `Ctrl + F5` to run without debugging.
    - The API should be accessible at `http://localhost:5125` or `https://localhost:7043`.
 
-4. **Access Swagger**:
+5. **Access Swagger**:
    - Open a web browser and navigate to `http://localhost:5125/swagger` or `https://localhost:7043/swagger` to access the Swagger UI.
 
 ### Running with Docker
